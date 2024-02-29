@@ -28,3 +28,4 @@ In basic code, we use `XAMPP` to run the project. So, you need to install `XAMPP
 6. Open the browser and route to the project folder to run `index.php` file.
 
 It's done. You can now test the website.
+---
