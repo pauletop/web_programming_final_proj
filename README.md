@@ -29,3 +29,14 @@ In basic code, we use `XAMPP` to run the project. So, you need to install `XAMPP
 
 It's done. You can now test the website.
 ---
+Note: Some available accounts for testing:
+- Student: 
+    - Email: `test@gmail.com`
+    - Email: `test1@gmail.com`
+    - Email: `nttnguyen@gmail.com`
+- Employer:
+    - Email: `test2@gmail.com`
+    - Email: `huyquang@gmail.com`
+    - Email: `minh@gmail.com`
+    
+All above accounts have the default password `123456`. You can also register new accounts to test the website.
